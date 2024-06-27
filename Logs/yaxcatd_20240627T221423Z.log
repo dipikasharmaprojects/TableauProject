@@ -1,0 +1,9 @@
+yaxcatd (C:\Program Files\Tableau\Tableau 2024.1\bin\yaxcat\yaxcatd.exe) built at 26ca6db listening on 127.0.0.1:36544 with 12 worker threads.
+0.004ms; [no ensemble]::AggModelServiceImpl::ping: 
+0.003ms; [no ensemble]::AggModelServiceImpl::ping: 
+0.954ms; [no ensemble]::AggModelServiceImpl::mark_stats: 
+0.004ms; [no ensemble]::AggModelServiceImpl::ping: 
+0.040ms; [no ensemble]::AggModelServiceImpl::mark_stats: 
+0.003ms; [no ensemble]::AggModelServiceImpl::ping: 
+0.046ms; [no ensemble]::AggModelServiceImpl::mark_stats: 
+stdin closed, exiting.
